@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Misky - nur        </a>
+          Misky - nur   
+          made by abdishukri     </a>
       </header>
     </div>
   );
